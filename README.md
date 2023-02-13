@@ -16,7 +16,7 @@ https://local-weather-two.vercel.app/
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/mmoreaudev/local-weather/main/screenshots/1.png)
+<img src="https://raw.githubusercontent.com/mmoreaudev/local-weather/main/screenshots/1.png" width="50%">
 
 
 ## Authors
